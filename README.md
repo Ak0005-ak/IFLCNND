@@ -1,5 +1,5 @@
 # IFLCNND
-Intelligent Privacy Preserving Federated Learning Model in Dermatology
+Intelligent Federated Learning with Deep CNN Model for classifying Dermatology
 
 ## Dataset Setup
 
