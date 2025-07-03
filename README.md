@@ -1,4 +1,4 @@
-# INPRIFMD
+# IFLCNND
 Intelligent Privacy Preserving Federated Learning Model in Dermatology
 
 ## Dataset Setup
